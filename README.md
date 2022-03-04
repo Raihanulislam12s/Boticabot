@@ -1,6 +1,6 @@
 # Boticabot
 
-Link to site : [Boticabot](https://https://raihanulislam12s.github.io/Boticabot/dashboard.html)
+Link to site : [Boticabot](https://raihanulislam12s.github.io/Boticabot/dashboard.html)
 
 
 
